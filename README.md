@@ -2,7 +2,7 @@
 Adding Wireless Connectivity to Widely Deployed Trail Monitoring Sensors for Improved Convenience and Safety
 
 ### Authors: 
-John M. Price, Ph.D., Jason Pitts
+John Price, Jason Pitts
 
 ### Abstract: 
 
@@ -18,7 +18,7 @@ In trail utilization applications, these statistics are often gathered by infrar
 
 ![System Schematic](Picture1.png)
 
-    *Figure 1.* Proposed System
+*Figure 1.* Proposed System
 
 
 A working prototype will be developed to allow the exploration of: 
