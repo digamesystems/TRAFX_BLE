@@ -33,4 +33,5 @@ The project would also serve as a learning platform for the student intern commu
 
 ### References: 
 [1] - Instructions for Using Traffic Counters to Estimate Recreation Visits and Use George A. James; Thomas H. Ripley, Res. Pap. SE-3. Asheville, NC: U.S. Department of Agriculture, Forest Service, Southeastern Forest Experiment Station. 14 p. (1963).
+
 [2] – TRAFX Research Ltd. https://www.trafx.net/about
