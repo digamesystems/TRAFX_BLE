@@ -1,5 +1,5 @@
 ## Reference Documents
 
 - ble - BLE module data sheets
-- ref - A paper referenced in the statement of work
+- ref - Reference material, including other, public, projects incorporating the hardware. 
 - trafx - TRAFX manuals and data sheets
